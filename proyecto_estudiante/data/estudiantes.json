@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Josue",
+    "apellido": "Vinces",
+    "email": "josue@unemi.edu",
+    "carnet": "300josvi",
+    "notas": {
+      "Matematicas": [
+        19.0,
+        10.0
+      ],
+      "Estructura": [
+        20.0
+      ]
+    },
+    "materias": [
+      "Estructura",
+      "Matematicas"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Michelle",
+    "apellido": "Murillo",
+    "email": "Ug@ug.edu.ec",
+    "carnet": "up1293",
+    "notas": {
+      "Estructura": [
+        10.0
+      ]
+    },
+    "materias": [
+      "Estructura"
+    ]
+  }
+]
